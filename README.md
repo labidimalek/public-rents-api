@@ -10,9 +10,9 @@ https://my-json-server.typicode.com/labidimalek/public-rents-api/rents
 
 ## Available request methods
 
-* GET: /courses
-* GET: /courses/:id
-* POST /courses
-* PUT /courses/:id
-* PATCH /courses/:id
-* DELETE /courses/:id
+* GET: /rents
+* GET: /rents/:id
+* POST /rents
+* PUT /rents/:id
+* PATCH /rents/:id
+* DELETE /rents/:id
